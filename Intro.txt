@@ -1,1 +1,2 @@
-embedding 
+embedding is software into the hardware.
+git is so easy...
